@@ -19,6 +19,7 @@ body {
   display: grid;
   grid-template-columns: auto 1fr;
   column-gap: 30px;
+  background-attachment: scroll;
 }
 .blockquote {
   padding: 20px;
